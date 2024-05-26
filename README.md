@@ -18,5 +18,6 @@ Memory:16 GB
 Finally got everything working with my latest configuration:
 - Steam
 - Heroic Game Launcher
+- Lutris
 - Cemu - runs with this "trick" after I found out that wayland was the main problem: GDK_BACKEND=x11 cemu
-- Lutris - not tested yet
+
